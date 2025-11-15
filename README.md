@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Wondy!
 
-<!--
-**Wonderment16/Wonderment16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Analytics student | 🐍 Python enthusiast | 💫 YDF Foundation learner  
+📊 Passionate about finding patterns, insights, and stories in data  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills & Tools
+- **Languages:** Python, HTML
+- **Libraries:** pandas, numpy, matplotlib, 
+- **Tools:** Excel, Jupyter Notebook, Git, VS Code  
+
+---
+
+### 🚀 Featured Projects
+- 🧩 [Home Work Manager](https://github.com/Wonderment16/Home-Work-Manager) — App that helps students track assignments  
+- 📈 [Data Cleaning with Pandas](#) — Project coming soon  
+- 🎮 [Tic Tac Toe with Match Tracking](#) — Python mini-game  
+
+---
+
+### 🌱 Currently Learning
+- Data visualization & storytelling  
+- Streamlit dashboards  
+- Advanced SQL analytics  
+
+---
+
+### 📫 Connect with Me
+- 📧 **wondermentadedayo000@gmail.com**  
+- 🌍 *Nigeria*  
