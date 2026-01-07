@@ -15,7 +15,7 @@
 ### 🚀 Featured Projects
 - 🧩 [Home Work Manager](https://github.com/Wonderment16/Home-Work-Manager) — App that helps students track assignments  
 - 🎮 [Tic Tac Toe with Match Tracking](#) — Python mini-game
-- 📱 [Scientific-Calculator](https://github.com/Wonderment16/scientific_calculator) 
+- 📱 [Scientific-Calculator](https://github.com/Wonderment16/scientific-calculator) 
 
 ---
 
