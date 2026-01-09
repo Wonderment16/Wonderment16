@@ -27,6 +27,6 @@
 ---
 
 ### 📫 Connect with Me
-- 📧 **wondermentadedayo000@gmail.com**
+- 📧 **wondermentadedayo000@gmail.com** -> *gmail*
 - 📌 **thewonderment_** -> *instagram handle*
 - 🌍 *Nigeria*  
