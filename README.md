@@ -7,8 +7,8 @@
 
 ### 🧠 Skills & Tools
 - **Languages:** Python, HTML
-- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, random, statsmodels
-- **Tools:** Excel, Jupyter Notebook, Git, VS Code  
+- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, random, statsmodels, tkinter
+- **Tools:** Excel, Git, VS Code, PyCharm
 
 ---
 
