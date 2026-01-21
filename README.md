@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wonderment Adedayo!
 
-🎓 Data Analytics student | 🐍 Python enthusiast | 💫 YDF Foundation learner | Backend-Developer
+🎓 Data Analytics student | 🐍 Python enthusiast | 💫 YDF learner |  Backend-Developer
 
 📊 Passionate about finding patterns, insights, and stories in data  
 
