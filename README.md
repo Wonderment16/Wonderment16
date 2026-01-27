@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Wonderment Adedayo!
 
-🎓 Data Analytics student | 🐍 Python enthusiast | 💫 YDF learner |  Backend-Developer
+🎓 Data Analytics student | 🐍 Python enthusiast |  Backend-Developer
 
 📊 Passionate about finding patterns, insights, and stories in data  
 
 ---
 
 ### 🧠 Skills & Tools
-- **Languages:** Python, SQL, JavaScript
+- **Languages:** Python, PostgreSQL, MySQL, JavaScript
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, random, statsmodels, tkinter
 - **Tools:** Excel, Git, VS Code, PyCharm
 
@@ -21,7 +21,7 @@
 ---
 
 ### 🌱 Currently Learning
-- AI 
+- Node.js
 - Streamlit dashboards  
 - Advanced SQL analytics
 - TypeScript
