@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 Skills & Tools
-- **Languages:** Python, PostgreSQL, MySQL, JavaScript
+- **Languages:** Python, PostgreSQL, MySQL
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, random, statsmodels, tkinter
 - **Tools:** Excel, Git, VS Code, PyCharm
 - **Frameworks:** Django REST, REST-API
