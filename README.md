@@ -30,5 +30,5 @@
 
 ### 📫 Connect with Me
 - 📧 **wondermentadedayo000@gmail.com** -> *gmail*
-- 📌 [Instagram](https://www.instagram.com/thewonderment_/)
+- 📌 [LinkedIn](https://www.linkedin.com/in/wonderment-adedayo-8b99213aa/)
 - 🌍 *Nigeria*  
