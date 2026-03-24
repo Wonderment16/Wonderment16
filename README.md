@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Wonderment Adedayo!
 
-🎓 Data Analytics student | 🐍 Python enthusiast |  Backend-Developer
+🎓 Data Analytics student | Data Scientist | 🐍 Python Developer |  Backend-Developer
 
 📊 Passionate about finding patterns, insights, and stories in data  
 
 ---
 
 ### 🧠 Skills & Tools
-- **Languages:** Python, PostgreSQL, MySQL
+- **Languages:** Python, PostgreSQL, MySQL, HTML
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, random, statsmodels, tkinter
 - **Tools:** Excel, Git, VS Code, PyCharm
 - **Frameworks:** Django REST, REST-API
@@ -25,12 +25,12 @@
 - Node.js
 - Streamlit dashboards  
 - Advanced SQL analytics
-- TypeScript
+- JavaScript
 
 ---
 
 ### 📫 Connect with Me
-- 📧 **wondermentadedayo@gmail.com**
+- 📧 **wondermentadedayo000@gmail.com**
 - 📌 [LinkedIn](https://www.linkedin.com/in/wonderment-adedayo-8b99213aa/)
 - 📱 [Instagram](https://www.instagram.com/thewonderment_/)
 - 🌍 *Nigeria*  
