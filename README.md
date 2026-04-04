@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wonderment Adedayo!
 
-🎓 Data Analytics student | Data Scientist | 🐍 Python Developer |  Backend-Developer
+🎓 Data Analytics student | Data Scientist | 🐍 Python Developer
 
 📊 Passionate about finding patterns, insights, and stories in data  
 
