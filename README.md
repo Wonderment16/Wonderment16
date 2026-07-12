@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Wonderment Adedayo!
 
-🎓 Data Analytics student | Data Scientist | 🐍 Python Developer
+Software Developer | Data Scientist | Python Developer
 
-📊 Passionate about finding patterns, insights, and stories in data  
+Curiousity birth most of my projects.
 
 ---
 
 ### 🧠 Skills & Tools
-- **Languages:** Python, PostgreSQL, MySQL, HTML, CSS
+- **Languages:** Python, PostgreSQL, MySQL, HTML, CSS, JavaScript
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, random, statsmodels, tkinter
 - **Tools:** Excel, Git, VS Code, PyCharm
 - **Frameworks:** Django REST, REST-API
@@ -25,7 +25,7 @@
 - Node.js
 - Streamlit dashboards  
 - Advanced SQL analytics
-- JavaScript
+- Typescript
 
 ---
 
