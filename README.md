@@ -15,7 +15,7 @@ Curiousity birth most of my projects.
 ---
 
 ### 🚀 Featured Projects
-- 🧩 [Home Work Manager](https://github.com/Wonderment16/HomeWork-Manager) — App that helps students track assignments  
+- 🧩 [Home Work Manager](https://github.com/Wonderment16/EduFlow) — App that helps students track assignments  
 - 🎮 [Tic Tac Toe with Match Tracking](#) — Python mini-game
 - 📱 [Scientific-Calculator](https://github.com/Wonderment16/ScientificCalculator) 
 
